@@ -1,0 +1,13 @@
+{
+  "name": "2fa-google",
+  "version": "0.1.0",
+  "description": "Integrate 2FA into the app",
+  "main": "src/index.js",
+  "author": "Kore",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "qrcode": "^1.4.4",
+    "speakeasy": "^2.0.0"
+  }
+}
